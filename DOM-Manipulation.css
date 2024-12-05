@@ -1,0 +1,41 @@
+/*
+p{
+    font-size: medium;
+    font-style: italic;
+    color: red;
+}
+#p1{
+    color: black;
+    background-color: antiquewhite;
+}
+
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    padding: 10px;
+    border-radius: 3px solid black;
+    margin: 10px;
+}
+*/
+
+button{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(219, 212, 212);
+    border: 3px solid black;
+    color: black;
+    padding:10px ;
+    margin: 10px;
+    
+    
+}
+.active{
+    background-color: rgb(139, 15, 118);
+    color: white;
+}
+.active:hover{
+    background-color: rgb(109, 189, 215);
+    color: black;
+}
